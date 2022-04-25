@@ -1,2 +1,20 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deja-vuuu)](https://github.com/anuraghazra/github-readme-stats?show_icons=true&theme=highcontrast)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deja-vuuu&show_icons=true&theme=highcontrast)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deja-vuuu&show_icons=true&theme=merko)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deja-vuuu&show_icons=true&theme=tokyonight)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deja-vuuu&show_icons=true&theme=onedark)
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deja-vuuu&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deja-vuuu&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deja-vuuu&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deja-vuuu&show_icons=true&theme=onedark)
