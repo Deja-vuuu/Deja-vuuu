@@ -1,5 +1,8 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=C66C73&height=500&lines=Love+and+Peace)](https://git.io/typing-svg)
 <a><img src="https://deja-vuuu.github.io/Deja-vuuu/devcard.svg" width="400" /></a>
+
+
 
 <a align="center" href="#">
 <img src="https://github-readme-stats.vercel.app/api?username=Deja-vuuu&show_icons=true&theme=onedark" alt="my github stats" width="420"/>               <img src="https://github-readme-streak-stats.herokuapp.com?user=Deja-vuuu&theme=monokai-metallian&date_format=j%2Fn%5B%2FY%5D&background=2D3036&fire=C66C73&stroke=BCA772&ring=BCA772&sideLabels=C66C73" alt="my github stats" width="420"/>
