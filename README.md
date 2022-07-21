@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=C66C73&width=600&height=300&lines=+++++++++++Love+and+Peace)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=C66C73&width=600&height=300&lines=+++++++++++Peace-And-Love~)](https://git.io/typing-svg)
 <a><img src="https://deja-vuuu.github.io/Deja-vuuu/devcard.svg" width="240" /></a>
 
 
